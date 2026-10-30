@@ -1,0 +1,14 @@
+{
+  "scenarios": 6,
+  "tabs_each": 7,
+  "screen_states": 6,
+  "viewports": [
+    1440,
+    768,
+    390,
+    320
+  ],
+  "runtime_errors": [],
+  "conversation": "local modal tested; blocked B/C/D/F",
+  "result": "PASS"
+}

@@ -1,0 +1,8 @@
+{
+  "result": "PASS",
+  "evaluation": "closed by default on mobile and phone preview; controls accessible on expansion",
+  "tabs": "scroll hint, fade and buttons tested; selection preserved",
+  "next_action": "derived pending facts, ambiguous facts and undefined fallback tested",
+  "conversation": "single highlighted button; local read-only modal preserved",
+  "runtime_errors": []
+}
